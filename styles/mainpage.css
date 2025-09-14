@@ -100,6 +100,7 @@
     height: 496px;
     max-width: 605px;
     width: 100%;
+    margin-top: 40px;
 }
 
 .text1-1 {
@@ -227,11 +228,22 @@
 }*/
 
 .textblock3 {
+    height: 531px;
+    max-width: 486px;
+    width: 100%;
+    border: 5px;
+    border-color: #FF9900;
+    border-style: dotted;
 
 }
 
 .imageblock-3 {
-
+    height: 574px;
+    max-width: 520px;
+    width: 100%;
+    border: 5px;
+    border-color: #FF9900;
+    border-style: dotted;
 }
 
 
